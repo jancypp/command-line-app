@@ -32,7 +32,7 @@ MIT
   ## Tests
   Testing the applicaiton can be done by following the installation instructions above.
 
-  ##Link
+  ## Link
   https://www.loom.com/share/b766c1996f9d42c8b5170263c3828097
-  
+
 
