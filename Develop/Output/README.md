@@ -1,7 +1,7 @@
-# Command Line App
+# command-line-app
 
   ## Description
-  Command Line App
+  The purpose is to generate a professional README file using the command line
   
   ## Table of Contents (Optional)
   
@@ -13,21 +13,26 @@
   - [License](#license)
   
   ## Installation
-  npm i
+  Right-click on the the index.js file, select the open with integrated terminal, enter the command: node index.js, answer the prompted questions.
   
   ## Usage
-  Generate a README
+  To quickly generate a high-quality README file using the integrated terminal and command line.
   
   ## Contributors
-  Jancy and Phil
+  Jancy Polzkill
 
   
   ## License
-Apache  
+MIT  
   
   ## Question
  jancypp
- jancypolzkill@hotmail.com
+ For questions, people can email jancypolzkill@hotmail.com
 
   ## Tests
-  terminal commands
+  Testing the applicaiton can be done by following the installation instructions above.
+
+  ##Link
+  https://www.loom.com/share/b766c1996f9d42c8b5170263c3828097
+  
+

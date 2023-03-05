@@ -48,7 +48,7 @@ const questions = [{
 },
 {
     type: 'input',
-    message: 'What is your email?',
+    message: 'What is your email so that people can reach you if they have question?',
     name: 'emailAddress',
 
 }];
